@@ -67,7 +67,7 @@ rfp-ai-validation/
 │   ├── self_declaration.docx
 │   └── undertaking_letter.docx
 ```
-
+###Note: Sample documents are not included due to confidentiality.
 ---
 
 ## Installation & Setup (For New Users)
@@ -271,6 +271,16 @@ Ensure:
 * Consulting bid analysis
 * Automated compliance checking
 
+
+## Data Privacy Notice
+
+This repository does not include original RFP or company documents due to confidentiality and sensitivity of the data.
+
+All sample files (if included) are either:
+- Synthetic (dummy data), or  
+- Anonymized for demonstration purposes  
+
+This project is intended to demonstrate the system architecture and workflow, not to expose real procurement data.
 ---
 
 ## Author
